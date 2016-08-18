@@ -13,7 +13,7 @@
     </activity>
     <activity
             android:name="ir.unity3d.cafebazarplugin.GateWay"
-            android:theme="@android:style/Theme.NoDisplay"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"
             >
     </activity>
   </application>
